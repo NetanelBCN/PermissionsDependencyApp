@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PermissionsDependencyApp</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome">welcome!</string>
+</resources>
